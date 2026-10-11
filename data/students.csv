@@ -1,0 +1,11 @@
+StudentID,Gender,StudyHours,Attendance,PreviousScore,Language,FinalScore
+1,Male,5,80,65,English,68
+2,Female,8,95,72,isiZulu,78
+3,Female,6,85,70,isiZulu,74
+4,Male,3,60,55,English,58
+5,Female,10,98,80,isiZulu,88
+6,Male,7,90,75,English,82
+7,Male,2,50,50,isiZulu,52
+8,Female,9,92,78,English,85
+9,Female,4,75,60,isiZulu,65
+10,Male,8,88,74,English,80

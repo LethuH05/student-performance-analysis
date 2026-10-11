@@ -1,0 +1,4 @@
+Key Insights:
+1. Students who study >6 hours score 82.6 on average.
+2. Attendance strongly correlates with performance (r=0.96).
+3. No significant gap found between English and isiZulu background students when study hours are equal - showing importance of accessible support.
